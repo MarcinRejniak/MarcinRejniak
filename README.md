@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcin Rejniak
 
-### 🛠 Automation & Robotics Engineer | Full-Stack Developer in the making
+### 🛠 Automation, Robotics & Control Systems Engineer
 
 I am an Automation, Robotics, and Control Systems Engineer currently pursuing a **Master’s in Computer Science**. I study **part-time (weekends only)**, which means I am **fully available for full-time professional work from Monday to Friday**.
 
