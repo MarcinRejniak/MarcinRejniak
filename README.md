@@ -11,7 +11,7 @@ I am an Automation, Robotics, and Control Systems Engineer currently pursuing a 
 * **Backend:** Java 21, Spring Boot 4.0.3, Spring Data JPA, Hibernate
 * **Frontend:** Angular 21.2.0, TypeScript, Signals
 * **Database:** MySQL, PostgreSQL
-* **Tools & Testing:** JUnit 5, REST API, JSON, Git, Maven
+* **Tools & Testing:** JUnit 5, Mockito, Docker, REST API, JSON, Git, Maven
 
 ---
 
